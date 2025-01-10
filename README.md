@@ -2,9 +2,9 @@
 
 # **Amazon USA Sales Analysis Project**
 
-### **Difficulty Level: Advanced**
 
----
+---[Amaon banner.pdf](https://github.com/user-attachments/files/18381013/Amaon.banner.pdf)
+
 
 ## **Project Overview**
 
@@ -16,7 +16,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-![ERD Scratch](https://github.com/najirh/amazon_usa_project5/blob/main/erd2.png)
+![erd2](https://github.com/user-attachments/assets/9e56d236-8d8f-4c29-bbe1-9a1fbec38b86)
 
 ## **Database Setup & Design**
 
@@ -755,6 +755,6 @@ By completing this project, I have gained a deeper understanding of how SQL can 
 ### **Entity Relationship Diagram (ERD)**
 ![erd](https://github.com/user-attachments/assets/43257115-de3e-477d-ab4e-e7123228a069)
 
-![erd2](https://github.com/user-attachments/assets/9e56d236-8d8f-4c29-bbe1-9a1fbec38b86)
+
 
 ---
