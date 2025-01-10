@@ -2,8 +2,9 @@
 
 # **Amazon USA Sales Analysis Project**
 
+![Amaon banner-1](https://github.com/user-attachments/assets/0a5ae239-e28e-47b4-b5a4-91d609e80e4b)
 
----[Amaon banner.pdf](https://github.com/user-attachments/files/18381013/Amaon.banner.pdf)
+
 
 
 ## **Project Overview**
