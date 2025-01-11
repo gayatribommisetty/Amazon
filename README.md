@@ -730,9 +730,6 @@ call add_sales
 25005, 2, 5, 25004, 1, 14
 );
 
----
-
----
 
 ## **Learning Outcomes**
 
@@ -743,7 +740,7 @@ This project enabled me to:
 - Conduct in-depth business analysis using SQL.
 - Optimize query performance and handle large datasets efficiently.
 
----
+
 
 ## **Conclusion**
 
@@ -751,11 +748,11 @@ This advanced SQL project successfully demonstrates my ability to solve real-wor
 
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
 
----
+
 
 ### **Entity Relationship Diagram (ERD)**
 ![erd](https://github.com/user-attachments/assets/43257115-de3e-477d-ab4e-e7123228a069)
 
 
 
----
+
